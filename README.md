@@ -1,22 +1,27 @@
-# SALES_DATA_ANALYSIS_ADVANCED
+# Sales Performance & Product Segmentation Dashboard (Power BI)
 
-🧩 Power BI Sales Analysis Dashboard
+This is an interactive **Sales Performance & Product Segmentation Dashboard** created in **Power BI** to explore sales and profit performance.
 
-This project showcases an interactive Power BI dashboard designed to analyze sales and profitability trends across multiple regions and product categories.
-The goal was to give business users an easy way to explore data, track performance, and make informed decisions.
+## Features
+- Monthly sales trend analysis  
+- Country-wise sales comparison  
+- Profit and sales by product sub-category  
+- Top customers insights  
+- Yoy (Year over year) sales segmentation
+- Product segmentation using **ABC Analysis** and **XYZ Analysis**  
+- Drill-through navigation, tooltips, and button-based interactions  
+- Custom visuals for better storytelling  
 
-🔍 Key Features
+## Tools Used
+- Power BI Desktop  
+- DAX  
+- Power Query  
+- SQL (for data extraction)
 
-Built using advanced DAX functions such as CALCULATE, FILTER, ALL, SWITCH, and time intelligence for YTD, MTD, and rolling averages.
+## Dashboard Pages
+- Home  
+- Sales Overview  
+- YoY Growth  
+- Customer Insights  
+- Product Performance  
 
-Added dynamic KPIs, drill-through pages, bookmarks, and slicers for interactive insights.
-
-Created a star schema data model to improve performance and maintain clarity.
-
-Designed clean, visually appealing dashboards following best visualization practices.
-
-Helped stakeholders identify top-performing products, compare goals vs. actuals, and optimize business strategies.
-
-⚙️ Tech Stack
-
-Power BI | DAX | SQL | Excel | Data Modeling | Visualization
